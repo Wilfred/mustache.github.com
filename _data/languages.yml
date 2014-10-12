@@ -67,6 +67,8 @@
   url:  https://github.com/rustache/rustache  
 - name: C#
   url:  https://github.com/jehugaleahsa/mustache-sharp
+- name: Emacs-Lisp
+  url:  https://github.com/Wilfred/mustache.el
 
 # TODO: include handlebars implementations?
 # - name: Java
